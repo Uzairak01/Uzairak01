@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and back end development
 - 🌱 I’m currently learning C++ and JavaScript sometimes
 - 💞️ I can make complete front end for web
-- 📫 How to reach me --> 
+- 📫 How to reach me --> can connect with me on my insta 'uzair.ahmadk01'
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Their is nothing funny here
 
