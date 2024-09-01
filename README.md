@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uzairak01
-- 👀 I’m interested in web development and back end development
-- 🌱 I’m currently learning C++ and JavaScript sometimes
-- 💞️ I can make complete front end for web
+- 👀 I’m interested in web development and blockChain development
+- 🌱 I’m currently learning C++ and JavaScript
+- 💞️ I can make complete front end for websites
 - 📫 How to reach me --> can connect with me on my insta 'uzair.ahmadk01'
 - 😄 Pronouns: He / Him --> Uzair
 - ⚡ Fun fact: Their is nothing funny here
