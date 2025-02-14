@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and blockChain development
 - 🌱 I’m currently learning C++ and JavaScript
 - 💞️ I can make complete front end for websites
-- 📫 How to reach me --> can connect with me on my insta 'uzair.ahmadk01'
+- 📫 How to reach me --> connect ma @ h.uzairak01@gmail.com
 - 😄 Pronouns: He / Him --> Uzair
 - ⚡ Fun fact: I'm still learning how to code 
 
