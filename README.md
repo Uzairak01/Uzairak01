@@ -47,8 +47,9 @@
 
 ## 📈 GitHub Stats
 
-[![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzairak01&show_icons=true&theme=high_contrast)](https://github-readme-stats.vercel.app/api?username=Uzairak01&show_icons=true&theme=high_contrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairak01&layout=compact&theme=high_contrast)](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairak01&layout=compact&theme=high_contrast)
+[![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzairak01&show_icons=true&theme=high_contrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairak01&layout=compact&theme=high_contrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 *"Building clean code and powerful applications, one commit at a time."*
