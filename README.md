@@ -47,12 +47,12 @@
 
 ## 📈 GitHub Stats
 
-[![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzairak01&show_icons=true&theme=high_contrast)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairak01&layout=compact&theme=high_contrast)](https://github.com/anuraghazra/github-readme-stats)
-
+![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzairak01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairak01&layout=compact&theme=radical)
 ---
 *"Building clean code and powerful applications, one commit at a time."*
+* **Freelance:** Open for Front-end development and WordPress projects.
+* **Interests:** Motorcycle mechanics, Linux customization, and Financial Markets.
 
 <!---
 Uzairak01/Uzairak01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
