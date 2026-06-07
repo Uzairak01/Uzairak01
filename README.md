@@ -1,15 +1,16 @@
 # Hi, I'm Uzair Ahmad Khan 👋
 
-### Full-Stack Developer (Frontend Focus) • BSCS Student
+### Full-Stack Developer (Frontend Focus) • BSCS Student (Class of 2027)
 
 ---
 
 ## About Me
 
-- BSCS student at the **University of Lahore** (2023–present)
-- Hands-on experience with **React, TypeScript, and Firebase** — building production-quality, responsive web applications with strong component architecture
-- Expanding into **MERN backend** (Node.js, Express, MongoDB) and **AI/ML integration**
-- Passionate about clean code, modern tooling, and Linux (Fedora, Zorin OS, WSL)
+- BSCS student at the **University of Lahore** (expected June 2027)
+- Hands-on experience with **React, TypeScript, and Firebase** — building responsive web applications with clean component architecture
+- Completed front-end development training (HTML, CSS, JS, Bootstrap)
+- Expanding into **MERN backend** (Node.js, Express, MongoDB) and **AI/ML**
+- Linux enthusiast: Fedora, Zorin OS, WSL
 
 ---
 
@@ -17,6 +18,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzairak01/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzairak01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=ko-fi&logoColor=white)](https://uzairak01.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.uzairak01@gmail.com)
 
 ---
@@ -33,28 +35,21 @@
 
 ---
 
-## 💼 Experience
-
-**Web Developer Intern — University of Lahore** (02/2026)
-- Built complete front-end solutions for a travel agency and IT consultancy site (HTML, CSS, JS, Bootstrap)
-- Integrated dark/light mode and achieved a increase in mobile user satisfaction via responsive design
-
----
-
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science (BSCS)** — University of Lahore (09/2023–present)
+**BSCS — University of Lahore** (Expected June 2027)  
 *Coursework:* Data Structures, Algorithms, OOP, Software Engineering, Database Systems, Web Dev (MERN)
 
-**FSC Pre-Engineering** — Punjab Group of Colleges (2021–2023)
+**FSC Pre-Engineering — Punjab Group of Colleges** (2021–2023)
 
 ---
 
-## 📚 Currently Learning
+## 📚 Training
 
-- MERN Stack Backend (Node.js / Express.js)
-- Artificial Intelligence & ML
-- 3D Web (Three.js)
+**Web Development Trainee — University of Lahore** (Feb 2026 – Apr 2026)
+- Completed structured training in front-end development (HTML, CSS, JS, Bootstrap)
+- Built practice projects including travel agency and IT consultancy site mockups
+- Explored responsive design and dark/light mode
 
 ---
 
@@ -65,4 +60,5 @@
 
 ---
 
-*Open for front-end development and WordPress freelance opportunities.*
+*Open for internship opportunities — Fall 2026 / Spring 2027*  
+*Building clean code, one commit at a time.*
