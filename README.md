@@ -1,60 +1,68 @@
-# Hi I'm Uzair Ahmad Khan👋🏻
+# Hi, I'm Uzair Ahmad Khan 👋
 
-### A Software Developer and CS Student specializing in the MERN stack and Flutter.
+### Full-Stack Developer (Frontend Focus) • BSCS Student
 
 ---
 
 ## About Me
 
-* I am currently a senior student at the **University of Lahore (UOL)**.
-* I am passionate about building full-stack applications and cross-platform mobile solutions.
-* I am an active Linux enthusiast; currently exploring **Fedora** in a VM alongside my primary setups.
+- BSCS student at the **University of Lahore** (2023–present)
+- Hands-on experience with **React, TypeScript, and Firebase** — building production-quality, responsive web applications with strong component architecture
+- Expanding into **MERN backend** (Node.js, Express, MongoDB) and **AI/ML integration**
+- Passionate about clean code, modern tooling, and Linux (Fedora, Zorin OS, WSL)
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect
 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-0077B5?style=for-the-badge&logo=ko-fi&logoColor=white)](https://uzairak01.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzairak01/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.uzairak01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzairak01)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.uzairak01@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages & Scripting:**
+**Languages:** JavaScript (ES6+), TypeScript, Python, C++, HTML5, CSS3, SQL
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend:** React.js, Redux Toolkit, Vite, Bootstrap, TailwindCSS, Responsive/Mobile-First Design, Figma
 
-**Frameworks & Libraries:**
+**Backend (Learning):** Node.js, Express.js, REST APIs, MongoDB
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+**Cloud & Tools:** Firebase (Firestore, Auth, Hosting), Git, GitHub, Linux (Fedora, Zorin OS, WSL)
 
-**Databases & Tools:**
+---
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+## 💼 Experience
+
+**Web Developer Intern — University of Lahore** (02/2026)
+- Built complete front-end solutions for a travel agency and IT consultancy site (HTML, CSS, JS, Bootstrap)
+- Integrated dark/light mode and achieved a increase in mobile user satisfaction via responsive design
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science (BSCS)** — University of Lahore (09/2023–present)
+*Coursework:* Data Structures, Algorithms, OOP, Software Engineering, Database Systems, Web Dev (MERN)
+
+**FSC Pre-Engineering** — Punjab Group of Colleges (2021–2023)
+
+---
+
+## 📚 Currently Learning
+
+- MERN Stack Backend (Node.js / Express.js)
+- Artificial Intelligence & ML
+- 3D Web (Three.js)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzairak01&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uzairak01&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairak01&layout=compact&theme=radical)
----
-*"Building clean code and powerful applications, one commit at a time."*
-* **Freelance:** Open for Front-end development and WordPress projects.
-* **Interests:** Motorcycle mechanics, Linux customization, and Financial Markets.
 
-<!---
-Uzairak01/Uzairak01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+*Open for front-end development and WordPress freelance opportunities.*
