@@ -43,6 +43,15 @@
 **FSC Pre-Engineering — Punjab Group of Colleges** (2021–2023)
 
 ---
+## 📚 Experience
+
+**IT Development Intern (Digital Transformation & Operations)— The Bank of Punjab**	Jul 2026 – Sep 2026
+-	Rotated across Digital Transformation, Database & Data Center Infrastructure, IT Governance, and Enterprise Networks divisions, gaining cross-functional exposure to banking technology operations.
+-	Analyzed enterprise service-oriented architecture (SOA), Corporate Internet Banking (BOPBIZ), and ATM network monitoring and encryption protocols.
+-	Studied IT procurement workflows, Service Level Agreements (SLAs), and payment milestone dependencies tied to SIT/UAT software sign-off processes.
+-	Examined NOC operations, branch network topologies, and enterprise network security frameworks.
+
+---
 
 ## 📚 Training
 
