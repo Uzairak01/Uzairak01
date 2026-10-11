@@ -68,9 +68,10 @@
 
 ## 📈 GitHub Stats
 
-![Uzair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uzairak01&show_icons=true&theme=radical)
-![Uzair's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairak01&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairak01&layout=compact&theme=radical)
+## 📈 GitHub Stats
+
+[![Uzair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uzairak01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairak01&layout=compact&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
