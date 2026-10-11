@@ -69,6 +69,7 @@
 ## 📈 GitHub Stats
 
 ![Uzair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uzairak01&show_icons=true&theme=radical)
+![Uzair's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairak01&layout=compact&theme=radical)
 
 ---
