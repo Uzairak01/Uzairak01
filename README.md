@@ -36,7 +36,7 @@
 
 ## 🚀 Key Projects
 
-### 🏍️ CAMP — Context-Aware Predictive Maintenance & Touring App
+### 🏍️ CAMP — Context-Aware Predictive Maintenance & Touring App (FYP)
 * **Tech Stack:** Flutter, Dart, Node.js, REST APIs, Python.
 * AI-assisted mobile application designed for motorcyclists to track maintenance schedules, predict vehicle service needs, and plan tours.
 
